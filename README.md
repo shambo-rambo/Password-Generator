@@ -43,4 +43,10 @@ Click the "Generate" button.
 Follow the prompts to specify your password preferences.
 View the generated password.
 
+# Screenshots
+
+![Screenshot of my application](https://raw.githubusercontent.com/shambo-rambo/Password-Generator/main/assets/images/Generated%20Password%20screenshot.png)
+
+![Screenshot of my application prompt feature](https://raw.githubusercontent.com/shambo-rambo/Password-Generator/main/assets/images/Prompt%20Feature%20screenshot.png)
+
 
